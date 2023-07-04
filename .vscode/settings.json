@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "general_message.h": "c",
+        "error_message.h": "c",
+        "success_message.h": "c"
+    }
+}
